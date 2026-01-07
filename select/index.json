@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "またあした",
+  "base_artist": "タカオ(CV：沼倉愛美)",
+  "createdAt": "2026-01-07T08:44:07.025160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おはよう、またあした",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/01_おはよう、またあした_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "またあした",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/02_またあした_Machico.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おはよう、またあした",
+      "artist": "Ho - Kago Tea Time",
+      "has_synced": true,
+      "path": "select/03_おはよう、またあした_Ho_-_Kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "またあした (off vocal ver.) [96kHz/24bit]",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/04_またあした_(off_vocal_ver.)_[96kHz_24bit]_Machico.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "またあした [96kHz/24bit]",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/05_またあした_[96kHz_24bit]_Machico.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おはよう、またあした",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/06_おはよう、またあした_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "またあした",
+      "artist": "Siro",
+      "has_synced": true,
+      "path": "select/07_またあした_Siro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おはよう、またあした",
+      "artist": "放課後ティータイム (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子, 竹達彩奈)",
+      "has_synced": true,
+      "path": "select/08_おはよう、またあした_放課後ティータイム_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子,_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おはよう、またあした",
+      "artist": "桜高軽音部",
+      "has_synced": true,
+      "path": "select/09_おはよう、またあした_桜高軽音部.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おはよう、またあした",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/10_おはよう、またあした_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "またあした",
+      "artist": "そらる",
+      "has_synced": true,
+      "path": "select/11_またあした_そらる.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "またあした",
+      "artist": "ふわりP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_またあした_ふわりP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "おはよう、またあした (Instrumental)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/13_おはよう、またあした_(Instrumental)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "またあした",
+      "artist": "ふわりP/初音ミク",
+      "has_synced": true,
+      "path": "select/14_またあした_ふわりP_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "おはよう、またあした (Instrumental)",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": false,
+      "path": "select/15_おはよう、またあした_(Instrumental)_HO‐KAGO_TEA_TIME.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またあした",
+      "artist": "タカオ(CV:沼倉愛美)",
+      "has_synced": false,
+      "path": "select/pl_01_またあした_タカオ(CV_沼倉愛美).txt"
+    }
+  ]
+}
